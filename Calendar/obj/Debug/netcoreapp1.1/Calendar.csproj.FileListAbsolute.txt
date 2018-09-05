@@ -1,0 +1,8 @@
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar/bin/Debug/netcoreapp1.1/Calendar.deps.json
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar/bin/Debug/netcoreapp1.1/Calendar.dll
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar/bin/Debug/netcoreapp1.1/Calendar.pdb
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar/obj/Debug/netcoreapp1.1/Calendar.csprojResolveAssemblyReference.cache
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar/obj/Debug/netcoreapp1.1/Calendar.csproj.CoreCompileInputs.cache
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar/obj/Debug/netcoreapp1.1/Calendar.AssemblyInfo.cs
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar/obj/Debug/netcoreapp1.1/Calendar.dll
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar/obj/Debug/netcoreapp1.1/Calendar.pdb

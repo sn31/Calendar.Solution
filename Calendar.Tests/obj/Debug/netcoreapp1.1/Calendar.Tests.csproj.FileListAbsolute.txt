@@ -1,0 +1,15 @@
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.Tests.deps.json
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.Tests.runtimeconfig.json
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.Tests.runtimeconfig.dev.json
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.Tests.dll
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.Tests.pdb
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.dll
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp1.1/Calendar.pdb
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendar.Tests.csprojResolveAssemblyReference.cache
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendar.Tests.csproj.CoreCompileInputs.cache
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendar.Tests.AssemblyInfo.cs
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendar.Tests.dll
+/Users/skye/Documents/Epicodus Projects/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp1.1/Calendar.Tests.pdb
