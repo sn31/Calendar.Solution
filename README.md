@@ -18,11 +18,11 @@ A program that takes a year and returns whether that year was (or will be) a lea
 
 1. Clone this repository by using Terminal command:
 ```
-    $ git clone https://github.com/sn31/Calendar
+    $ git clone https://github.com/sn31/Calendar.Solution
 ```
 2. Change into the work directory using Terminal command:
 ```
-    $ cd Calendar
+    $ cd Calendar.Solution
 ```
 3. Open the project in your preferred text editor.
 
@@ -39,7 +39,8 @@ Please contact us at skye@dames.es for more information and/or feedback.
 ## Technologies Used
 
 * Visual Studio Code
-* C#
+* C# FixFormat 0.0.71
+* C#/.Net Core 1.1
 * Mono
 * Git
 * GitHub
