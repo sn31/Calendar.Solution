@@ -9,7 +9,8 @@ namespace Calendar.TestTools
         [TestMethod]
         public void IsLeapYear_NumberDivisibleByFour()
         {
-            //testing code goes here
+            LeapYear testLeapYear = new LeapYear();
+            Assert.AreEqual(true, testLeapYear.IsLeapYear(2012));
         }
     }
 }
